@@ -44,7 +44,12 @@ Dentro del grupo de impostores, la proporción IMPOSTOR / DOPPELGANGER también 
 
 ## Base de palabras
 
-`data/palabras.csv` contiene ~300 pares de palabras (civil, doppelganger) ambientadas en Argentina, organizadas en tres niveles de dificultad: `facil`, `medio`, `dificil`.
+`data/palabras.csv` contiene **300 pares** de palabras, organizados en tres niveles de dificultad: `facil`, `medio`, `dificil` (100 por nivel).
+
+| Tipo | Cantidad | Descripción |
+|------|----------|-------------|
+| General | 225 | Vocabulario cotidiano comprensible por cualquier hispanohablante, usando terminología argentina (colectivo, remera, pileta…) |
+| Argentinas | 75 | Contenido específico de Argentina en todas sus regiones: gastronomía regional, provincias, fauna, folklore, cultura, historia y figuras nacionales |
 
 ## Instalación y ejecución
 
@@ -53,24 +58,45 @@ Dentro del grupo de impostores, la proporción IMPOSTOR / DOPPELGANGER también 
 python main.py
 ```
 
+## Arquitectura MVC
+
+El proyecto sigue el patrón **Modelo–Vista–Controlador**, lo que facilita la futura migración a una interfaz gráfica (PyQt/Pygame) o una APK:
+
+| Capa | Archivo | Responsabilidad |
+|------|---------|-----------------|
+| **Modelo** | `game/model.py` | `Player`, `GameState`: estado puro del juego, sin I/O |
+| **Vista** | `game/view_console.py` | `ConsoleView`: toda la entrada/salida de terminal |
+| **Controlador** | `game/controller.py` | `GameController`: orquesta modelo ↔ vista |
+| Entrada | `main.py` | Crea vista y controlador, arranca el juego |
+| Apoyo | `game/roles.py` | Enum de roles |
+| Apoyo | `game/impostor_logic.py` | Selección inteligente de impostores |
+| Apoyo | `game/word_database.py` | Carga del CSV de palabras |
+| Apoyo | `game/display.py` | Utilidades de consola (clear, SPACE, banner) |
+
+Para portar a GUI basta con crear una clase `PyQtView` (o similar) que implemente los mismos métodos que `ConsoleView` y pasarla al `GameController`.
+
 ## Estructura del proyecto
 
 ```
 sabotaje/
-├── main.py               # Punto de entrada y lógica del juego
+├── main.py                  # Punto de entrada (≈10 líneas)
 ├── game/
-│   ├── roles.py          # Enum de roles
-│   ├── impostor_logic.py # Selección inteligente de impostores
-│   ├── word_database.py  # Carga del CSV de palabras
-│   └── display.py        # Utilidades de consola
+│   ├── model.py             # Modelo: Player + GameState
+│   ├── view_console.py      # Vista: ConsoleView (terminal)
+│   ├── controller.py        # Controlador: GameController
+│   ├── roles.py             # Enum de roles
+│   ├── impostor_logic.py    # Selección inteligente de impostores
+│   ├── word_database.py     # Carga del CSV de palabras
+│   └── display.py           # Utilidades de consola
 └── data/
-    └── palabras.csv      # ~300 pares de palabras argentinas
+    └── palabras.csv         # 300 pares de palabras (225 general + 75 argentinas)
 ```
 
 ## Hoja de ruta
 
 - [x] Lógica central del juego (consola, una sola pantalla)
 - [x] Selección inteligente de impostores por cantidad de jugadores
-- [x] Base de datos con ~300 palabras argentinas (fácil / medio / difícil)
+- [x] Base de datos con 300 palabras (225 general + 75 argentinas, 3 dificultades)
+- [x] Arquitectura MVC para facilitar escalado a GUI
 - [ ] IHM gráfica en Windows (PyQt / Pygame)
 - [ ] APK para Android (Kivy o Android Studio + Python)

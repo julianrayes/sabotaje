@@ -1,43 +1,46 @@
 civil,doppelganger,dificultad
-asado,parrilla,facil
-mate,tereré,facil
-empanada,pastelito,facil
-alfajor,galletita,facil
-dulce de leche,mermelada,facil
-pizza,fainá,facil
-medialunas,facturas,facil
-choripán,pancho,facil
-café,cortado,facil
-cerveza,sidra,facil
-gaseosa,jugo,facil
-helado,granizado,facil
-sandía,melón,facil
-durazno,ciruela,facil
+perro,lobo,facil
+gato,tigre,facil
+caballo,mula,facil
+vaca,toro,facil
+gallina,perdiz,facil
+pato,ganso,facil
+conejo,liebre,facil
+araña,escorpión,facil
+paloma,cotorra,facil
+pez,tortuga,facil
 manzana,pera,facil
 limón,naranja,facil
+sandía,melón,facil
+durazno,ciruela,facil
+frutilla,frambuesa,facil
+uva,cereza,facil
 papa,batata,facil
 tomate,pimiento,facil
+zanahoria,remolacha,facil
+arroz,fideos,facil
+pan,galleta,facil
+leche,yogur,facil
+queso,manteca,facil
+huevo,mayonesa,facil
+azúcar,sal,facil
+café,cortado,facil
+helado,granizado,facil
+chocolate,caramelo,facil
+torta,budín,facil
+galletita,oblea,facil
+pizza,fainá,facil
+cerveza,sidra,facil
 vino,champán,facil
-agua,soda,facil
-fútbol,rugby,facil
-pelota,balón,facil
-cancha,estadio,facil
-arco,portería,facil
-penal,tiro libre,facil
-gol,tanto,facil
-arquero,guardameta,facil
-campeonato,torneo,facil
-partido,encuentro,facil
-equipo,selección,facil
 colectivo,micro,facil
 subte,tren,facil
 auto,camioneta,facil
 moto,bicicleta,facil
-aeropuerto,terminal,facil
-barco,lancha,facil
 avión,helicóptero,facil
+barco,lancha,facil
 ruta,autopista,facil
 puente,túnel,facil
+aeropuerto,terminal,facil
 puerto,muelle,facil
 zapatilla,bota,facil
 remera,musculosa,facil
@@ -48,254 +51,251 @@ bolso,mochila,facil
 bufanda,pañuelo,facil
 medias,calcetines,facil
 cinturón,tiradores,facil
-calzado,sandalia,facil
-perro,lobo,facil
-gato,gato montés,facil
-caballo,mula,facil
-vaca,toro,facil
-gallina,perdiz,facil
-paloma,cotorra,facil
-pato,ganso,facil
-conejo,liebre,facil
-trucha,pejerrey,facil
-araña,escorpión,facil
+vestido,pollera,facil
+fútbol,rugby,facil
+pelota,balón,facil
+cancha,estadio,facil
+arquero,guardameta,facil
+gol,tanto,facil
+campeonato,torneo,facil
+partido,encuentro,facil
+equipo,selección,facil
 hospital,clínica,facil
-médico,enfermero,facil
-farmacia,droguería,facil
 escuela,colegio,facil
-universidad,facultad,facil
-maestro,profesor,facil
-libro,cuaderno,facil
-lápiz,lapicera,facil
 banco,cajero,facil
 supermercado,almacén,facil
-kiosco,negocio,facil
-boliche,discoteca,facil
 teatro,cine,facil
 parque,plaza,facil
 jardín,patio,facil
-pileta,natatorio,facil
-playa,costa,facil
-montaña,cerro,facil
-río,lago,facil
-ciudad,pueblo,facil
 heladera,freezer,facil
 televisor,pantalla,facil
 celular,tablet,facil
-computadora,laptop,facil
 silla,sillón,facil
 mesa,escritorio,facil
-cama,colchón,facil
-cocina,comedor,facil
-baño,ducha,facil
-puerta,portón,facil
-mañana,tarde,facil
-verano,invierno,facil
 lluvia,tormenta,facil
-sol,nublado,facil
-viento,brisa,facil
-nieve,granizo,facil
+verano,invierno,facil
+asado,parrilla,facil
+mate,tereré,facil
+empanada,pastelito,facil
+alfajor,galletita,facil
+choripán,pancho,facil
+dulce de leche,mermelada,facil
+gaucho,paisano,facil
+poncho,chiripá,facil
+tango,milonga,facil
+chacarera,zamba,facil
 Buenos Aires,Córdoba,facil
 Mendoza,Tucumán,facil
-Mar del Plata,Rosario,facil
+Salta,Jujuy,facil
+Rosario,Mar del Plata,facil
 Patagonia,Pampa,facil
-guiso,locro,medio
-puchero,estofado,medio
-milanesa,escalope,medio
-sorrentinos,ravioles,medio
-carbonada,cazuela,medio
-matambre,peceto,medio
-bife,lomo,medio
-churrasco,bifé de chorizo,medio
-provoleta,queso a la parrilla,medio
-chimichurri,salsa criolla,medio
-humita,tamale,medio
-turrón,mazapán,medio
-vigilante,queso y dulce,medio
-submarino,chocolatada,medio
-licuado,batido,medio
-fernet,bitter,medio
-aperitivo,digestivo,medio
-grapa,caña,medio
-quincho,asador,medio
-fogón,brasero,medio
-tango,milonga,medio
-chacarera,zamba,medio
-cumbia,cuarteto,medio
-folklore,música nativa,medio
-payada,contrapunto,medio
-gauchito gil,difunta correa,medio
-gaucho,paisano,medio
-poncho,chiripá,medio
-boleadoras,lazo,medio
-espuelas,estribos,medio
-estancia,campo,medio
-potrero,pastizal,medio
-alambrado,tranquera,medio
-hornero,benteveo,medio
-carpincho,capibara,medio
-tatú,armadillo,medio
-vizcacha,liebre patagónica,medio
-guanaco,llama,medio
-yacaré,caimán,medio
-yarará,cascabel,medio
-chimango,carancho,medio
-garza,cigüeña,medio
-lobo marino,foca,medio
-nutria,coipo,medio
-puma,yaguareté,medio
-ñandú,emú,medio
-pejerrey,trucha de río,medio
-dorado,surubí,medio
-corvina,merluza,medio
-langostino,camarón,medio
-inflación,devaluación,medio
-dólar blue,dólar oficial,medio
-cepo cambiario,control de cambios,medio
-jubilación,retiro,medio
-obra social,prepaga,medio
-contador,auditor,medio
+Andes,Sierras,facil
+Iguazú,Glaciar Perito Moreno,facil
+Río de la Plata,río Paraná,facil
+carpincho,capibara,facil
+ñandú,emú,facil
+guanaco,llama,facil
+pejerrey,dorado,facil
+ceibo,jacarandá,facil
+lapacho,algarrobo,facil
+pampero,sudestada,facil
+médico,enfermero,medio
 abogado,procurador,medio
-juez,fiscal,medio
-juzgado,tribunal,medio
-comisaría,jefatura,medio
-taxista,remisero,medio
-fletero,camionero,medio
-bañero,guardavidas,medio
-kinesiólogo,fisioterapeuta,medio
+contador,auditor,medio
+maestro,profesor,medio
 odontólogo,dentista,medio
 veterinario,zootecnista,medio
 plomero,gasista,medio
 electricista,técnico eléctrico,medio
-canillita,voceador,medio
-verdulero,frutero,medio
-baldosa,cerámica,medio
-quebracho,algarrobo,medio
-ceibo,jacarandá,medio
-lapacho,tipa,medio
-espinillo,cina-cina,medio
-palo borracho,yuchán,medio
-mate cocido,té de yuyos,medio
+taxista,remisero,medio
+kinesiólogo,fisioterapeuta,medio
+arquitecto,ingeniero civil,medio
+periodista,conductor de radio,medio
+guiso,estofado,medio
+milanesa,escalope,medio
+sorrentinos,ravioles,medio
+sopa,caldo,medio
+bife,lomo,medio
+churrasco,costilla,medio
+ensalada,guarnición,medio
+hamburguesa,medallón,medio
+tarta,quiche,medio
+sándwich,wrap,medio
+paella,risotto,medio
+postre,entrada,medio
+fideos con tuco,fideos con manteca,medio
+selva,bosque,medio
+desierto,estepa,medio
+volcán,géiser,medio
+glaciar,nevado,medio
+cascada,catarata,medio
+bahía,golfo,medio
+isla,península,medio
+delta,estuario,medio
+llanura,meseta,medio
+quebrada,cañón,medio
+costa,litoral,medio
+cueva,gruta,medio
+música,danza,medio
+pintura,escultura,medio
+fotografía,video,medio
+teatro,ópera,medio
+poesía,prosa,medio
+novela,cuento,medio
+historia,geografía,medio
+religión,espiritualidad,medio
+idioma,dialecto,medio
+tradición,costumbre,medio
+internet,wifi,medio
+televisión,streaming,medio
+satélite,telescopio,medio
+vacuna,antibiótico,medio
+cirugía,radiografía,medio
+energía solar,energía eólica,medio
+reciclaje,compostaje,medio
+microscopio,lupa,medio
+mapa,brújula,medio
+termómetro,tensiómetro,medio
+dormitorio,living,medio
+balcón,terraza,medio
+ascensor,escalera,medio
+lavadora,lavarropas,medio
+cortina,persiana,medio
+lámpara,velador,medio
+puerta,ventana,medio
+cocina,comedor,medio
+baño,ducha,medio
+garaje,cochera,medio
+natación,remo,medio
+tenis,pádel,medio
+básquet,handball,medio
+boxeo,artes marciales,medio
+ciclismo,atletismo,medio
+pesca,caza,medio
+ajedrez,damas,medio
+festival,recital,medio
+locro,guiso norteño,medio
+humita,tamale,medio
+chipa,chipa guazú,medio
+matambre,peceto,medio
+provoleta,queso a la parrilla,medio
+chimichurri,salsa criolla,medio
+quincho,asador,medio
+fernet,aperitivo amargo,medio
+estancia,campo,medio
+boleadoras,lazo,medio
+hornero,benteveo,medio
+yarará,cascabel,medio
+yacaré,caimán,medio
+puma,yaguareté,medio
+quebracho,algarrobo colorado,medio
 yerba mate,yerba compuesta,medio
 bombilla,pitillo,medio
-leña,carbón,medio
-locro norteño,locro sureño,medio
-empanada tucumana,empanada salteña,medio
-alfajor cordobés,alfajor marplatense,medio
-dulce de zapallo,dulce de tomate,medio
-arroz con leche,leche asada,medio
-pan casero,pan de campo,medio
-tortilla de campo,tortilla española,medio
-chipa,chipa guazú,medio
-mbejú,reviro,medio
-rancho,toldo,medio
-fortín,reducción jesuítica,medio
-pulpero,almacenero de campo,medio
-compadrito,malevo,medio
-arrabalero,orillero,medio
-conventillo,inquilinato,medio
-zaguán,vestíbulo,medio
-baulera,depósito,medio
-palier,hall de entrada,medio
-mate amargo,mate con azúcar,medio
-asado de tira,costillar,medio
-rioplatense,porteño,dificil
-bonaerense,pampeano,dificil
-cuyanidad,andinidad,dificil
-altiplano,puna,dificil
-yungas,selva de montaña,dificil
-chaco húmedo,chaco seco,dificil
-iberá,pantanal,dificil
-lunfardo,cocoliche,dificil
-vesre,jerigonza porteña,dificil
-canyengue,orillero,dificil
-compadrito,guapo de barrio,dificil
-Plan Austral,Plan Primavera,dificil
-Convertibilidad,Plan Brady,dificil
-corralito,corralón bancario,dificil
-pesificación,dolarización forzosa,dificil
-megacanje,blindaje financiero,dificil
-INDEC,EPH,dificil
-cuenta corriente,balanza comercial,dificil
-Banco Nación,Banco Provincia,dificil
-BCRA,ANSES,dificil
-PAMI,INSSJP,dificil
-AUH,asignación familiar extendida,dificil
-SMVM,canasta básica alimentaria,dificil
-canasta básica total,línea de pobreza,dificil
-NBI,pobreza estructural,dificil
-Villa 31,villa de emergencia,dificil
-Gran Buenos Aires,AMBA,dificil
-CABA,Capital Federal,dificil
-Palermo Soho,Palermo Hollywood,dificil
-Puerto Madero,dique 4,dificil
-Riachuelo,cuenca Matanza-Riachuelo,dificil
-delta del Paraná,Tigre delta,dificil
-Nahuel Huapi,lago Moreno,dificil
-Mar Chiquita,laguna Ansenuza,dificil
-Epecuén,lago Epecuén,dificil
-INVAP,CNEA,dificil
-CONAE,agencia espacial,dificil
-ARSAT,satélite geoestacionario,dificil
-INTI,INTA,dificil
-SENASA,ANMAT,dificil
-CONICET,FONTAR,dificil
-UBA,UTN,dificil
-FLACSO,UNSAM,dificil
-UNTREF,UNLA,dificil
-Belgrano,Ferro Carril Oeste,dificil
-Huracán,San Lorenzo,dificil
-Vélez Sársfield,Quilmes Atlético,dificil
-Independiente,Racing Club,dificil
-Lanús,Banfield,dificil
-Estudiantes de La Plata,Gimnasia y Esgrima,dificil
-Talleres de Córdoba,Belgrano de Córdoba,dificil
-Newell's Old Boys,Club Atlético Colón,dificil
-Patoruzú,Mafalda,dificil
-Inodoro Pereyra,Cachafaz,dificil
-Clemente,Mendieta,dificil
-Luca Prodan,Pappo Napolitano,dificil
-Charly García,Luis Alberto Spinetta,dificil
-Fito Páez,Gustavo Cerati,dificil
-Soda Stereo,Los Redonditos de Ricota,dificil
-voseo,tuteo rioplatense,dificil
-chabón,coso,dificil
-posta,en serio,dificil
-copado,piola,dificil
-flashero,chamuyero,dificil
-groso,fenómeno,dificil
-quilombo,bardo,dificil
-garrón,plomo,dificil
-chamuyar,engrupir,dificil
+payada,contrapunto,medio
+cumbia,cuarteto,medio
+chamamé,polca correntina,medio
+Litoral,Mesopotamia,medio
+NOA,Puna,medio
+Cuyo,región andina,medio
+NEA,Noreste argentino,medio
+Gauchito Gil,Difunta Correa,medio
+democracia,república,dificil
+dictadura,autoritarismo,dificil
+socialismo,comunismo,dificil
+capitalismo,liberalismo,dificil
+inflación,devaluación,dificil
+recesión,depresión económica,dificil
+presupuesto,balance fiscal,dificil
+deuda pública,deuda externa,dificil
+impuesto,arancel,dificil
+subsidio,transferencia social,dificil
+privatización,estatización,dificil
+sindicato,gremio,dificil
+huelga,paro activo,dificil
+referéndum,plebiscito,dificil
+constitución,estatuto,dificil
+átomo,molécula,dificil
+ADN,ARN,dificil
+célula,tejido,dificil
+ecosistema,bioma,dificil
+fotosíntesis,respiración celular,dificil
+evolución,adaptación,dificil
+inteligencia artificial,machine learning,dificil
+ciberseguridad,privacidad digital,dificil
+blockchain,criptomoneda,dificil
+energía nuclear,fisión atómica,dificil
+astronomía,astrofísica,dificil
+neurociencia,psicología cognitiva,dificil
+biotecnología,ingeniería genética,dificil
+nanotecnología,materiales avanzados,dificil
+revolución industrial,revolución digital,dificil
+existencialismo,nihilismo,dificil
+empirismo,racionalismo,dificil
+utopía,distopía,dificil
+renacimiento,barroco,dificil
+romanticismo,realismo,dificil
+vanguardismo,modernismo,dificil
+surrealismo,dadaísmo,dificil
+realismo mágico,literatura fantástica,dificil
+épica,tragedia,dificil
+sátira,parodia,dificil
+metáfora,alegoría,dificil
+ética,moral,dificil
+estética,poética,dificil
+semiótica,lingüística,dificil
+dialéctica,retórica,dificil
+derechos humanos,libertades civiles,dificil
+feminismo,equidad de género,dificil
+globalización,mundialización,dificil
+migraciones,diáspora,dificil
+urbanización,suburbanización,dificil
+laicismo,clericalismo,dificil
+corrupción,nepotismo,dificil
+transparencia,rendición de cuentas,dificil
+poder judicial,poder ejecutivo,dificil
+federalismo,centralismo,dificil
+autonomía,soberanía,dificil
+tratado,convenio,dificil
+protocolo,acuerdo internacional,dificil
+patrimonio cultural,identidad nacional,dificil
+secularización,modernización,dificil
+cambio climático,calentamiento global,dificil
+biodiversidad,diversidad biológica,dificil
+deforestación,desertificación,dificil
+contaminación,polución,dificil
+humedal,área protegida,dificil
+especie endémica,especie invasora,dificil
+corriente marina,marea,dificil
+capa de ozono,efecto invernadero,dificil
+sequía,inundación,dificil
+terremoto,tsunami,dificil
+jerga,argot,dificil
+eufemismo,disfemismo,dificil
+neologismo,arcaísmo,dificil
+semántica,pragmática,dificil
+acento,entonación,dificil
 peronismo,movimiento nacional,dificil
-kirchnerismo,cristinismo,dificil
 radicalismo,desarrollismo,dificil
-montoneros,tendencia revolucionaria,dificil
-dictadura cívico-militar,proceso de reorganización nacional,dificil
-desaparecidos,detenidos-desaparecidos,dificil
+Convertibilidad,Plan Austral,dificil
+corralito,cepo cambiario,dificil
+obra social,prepaga,dificil
+CONICET,INTA,dificil
+INVAP,CNEA,dificil
+ARSAT,satélite geoestacionario,dificil
+lunfardo,vesre,dificil
+voseo,tuteo,dificil
 Martín Fierro,Santos Vega,dificil
 Don Segundo Sombra,Facundo,dificil
 Borges,Cortázar,dificil
-Arlt,Marechal,dificil
-Bioy Casares,Silvina Ocampo,dificil
-Almafuerte,Leopoldo Lugones,dificil
-Güiraldes,Mansilla,dificil
-Gauchito Gil,San La Muerte,dificil
+Charly García,Luis Alberto Spinetta,dificil
+Soda Stereo,Los Redonditos de Ricota,dificil
+Newell's Old Boys,Club Atlético Colón,dificil
+Talleres de Córdoba,Belgrano de Córdoba,dificil
+desaparecidos,detenidos políticos,dificil
+Malvinas,islas del Atlántico Sur,dificil
+Nahuel Huapi,Lago Argentino,dificil
+iberá,esteros del Paraná,dificil
+puna,prepuna,dificil
+quebrada de Humahuaca,valles calchaquíes,dificil
 Ceferino Namuncurá,Mama Antula,dificil
-quebracho colorado,quebracho blanco santiagueño,dificil
-caldén,algarrobo blanco,dificil
-arrayán,maqui,dificil
-seibo,irupé,dificil
-molle,aguaribay,dificil
-mistol,chañar,dificil
-peregrinaje a Luján,procesión religiosa nacional,dificil
-Plan Cavallo,ajuste fiscal,dificil
-IOMA,OSDE,dificil
-microcentro porteño,CBD rioplatense,dificil
-Villa Lugano,Villa Riachuelo,dificil
-Ciudadela,Laferrere,dificil
-La Matanza,conurbano sur,dificil
-Reconquista,Luján,dificil
-Iguazú,cataratas del Iguazú,dificil
-villas miseria,asentamientos,dificil
-peronismo clásico,peronismo renovador,dificil
+Gauchito Gil,San La Muerte,dificil
