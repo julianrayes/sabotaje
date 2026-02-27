@@ -1,0 +1,301 @@
+civil,doppelganger,dificultad
+asado,parrilla,facil
+mate,tereré,facil
+empanada,pastelito,facil
+alfajor,galletita,facil
+dulce de leche,mermelada,facil
+pizza,fainá,facil
+medialunas,facturas,facil
+choripán,pancho,facil
+café,cortado,facil
+cerveza,sidra,facil
+gaseosa,jugo,facil
+helado,granizado,facil
+sandía,melón,facil
+durazno,ciruela,facil
+manzana,pera,facil
+limón,naranja,facil
+papa,batata,facil
+tomate,pimiento,facil
+vino,champán,facil
+agua,soda,facil
+fútbol,rugby,facil
+pelota,balón,facil
+cancha,estadio,facil
+arco,portería,facil
+penal,tiro libre,facil
+gol,tanto,facil
+arquero,guardameta,facil
+campeonato,torneo,facil
+partido,encuentro,facil
+equipo,selección,facil
+colectivo,micro,facil
+subte,tren,facil
+auto,camioneta,facil
+moto,bicicleta,facil
+aeropuerto,terminal,facil
+barco,lancha,facil
+avión,helicóptero,facil
+ruta,autopista,facil
+puente,túnel,facil
+puerto,muelle,facil
+zapatilla,bota,facil
+remera,musculosa,facil
+pantalón,bermuda,facil
+campera,chaleco,facil
+gorra,boina,facil
+bolso,mochila,facil
+bufanda,pañuelo,facil
+medias,calcetines,facil
+cinturón,tiradores,facil
+calzado,sandalia,facil
+perro,lobo,facil
+gato,gato montés,facil
+caballo,mula,facil
+vaca,toro,facil
+gallina,perdiz,facil
+paloma,cotorra,facil
+pato,ganso,facil
+conejo,liebre,facil
+trucha,pejerrey,facil
+araña,escorpión,facil
+hospital,clínica,facil
+médico,enfermero,facil
+farmacia,droguería,facil
+escuela,colegio,facil
+universidad,facultad,facil
+maestro,profesor,facil
+libro,cuaderno,facil
+lápiz,lapicera,facil
+banco,cajero,facil
+supermercado,almacén,facil
+kiosco,negocio,facil
+boliche,discoteca,facil
+teatro,cine,facil
+parque,plaza,facil
+jardín,patio,facil
+pileta,natatorio,facil
+playa,costa,facil
+montaña,cerro,facil
+río,lago,facil
+ciudad,pueblo,facil
+heladera,freezer,facil
+televisor,pantalla,facil
+celular,tablet,facil
+computadora,laptop,facil
+silla,sillón,facil
+mesa,escritorio,facil
+cama,colchón,facil
+cocina,comedor,facil
+baño,ducha,facil
+puerta,portón,facil
+mañana,tarde,facil
+verano,invierno,facil
+lluvia,tormenta,facil
+sol,nublado,facil
+viento,brisa,facil
+nieve,granizo,facil
+Buenos Aires,Córdoba,facil
+Mendoza,Tucumán,facil
+Mar del Plata,Rosario,facil
+Patagonia,Pampa,facil
+guiso,locro,medio
+puchero,estofado,medio
+milanesa,escalope,medio
+sorrentinos,ravioles,medio
+carbonada,cazuela,medio
+matambre,peceto,medio
+bife,lomo,medio
+churrasco,bifé de chorizo,medio
+provoleta,queso a la parrilla,medio
+chimichurri,salsa criolla,medio
+humita,tamale,medio
+turrón,mazapán,medio
+vigilante,queso y dulce,medio
+submarino,chocolatada,medio
+licuado,batido,medio
+fernet,bitter,medio
+aperitivo,digestivo,medio
+grapa,caña,medio
+quincho,asador,medio
+fogón,brasero,medio
+tango,milonga,medio
+chacarera,zamba,medio
+cumbia,cuarteto,medio
+folklore,música nativa,medio
+payada,contrapunto,medio
+gauchito gil,difunta correa,medio
+gaucho,paisano,medio
+poncho,chiripá,medio
+boleadoras,lazo,medio
+espuelas,estribos,medio
+estancia,campo,medio
+potrero,pastizal,medio
+alambrado,tranquera,medio
+hornero,benteveo,medio
+carpincho,capibara,medio
+tatú,armadillo,medio
+vizcacha,liebre patagónica,medio
+guanaco,llama,medio
+yacaré,caimán,medio
+yarará,cascabel,medio
+chimango,carancho,medio
+garza,cigüeña,medio
+lobo marino,foca,medio
+nutria,coipo,medio
+puma,yaguareté,medio
+ñandú,emú,medio
+pejerrey,trucha de río,medio
+dorado,surubí,medio
+corvina,merluza,medio
+langostino,camarón,medio
+inflación,devaluación,medio
+dólar blue,dólar oficial,medio
+cepo cambiario,control de cambios,medio
+jubilación,retiro,medio
+obra social,prepaga,medio
+contador,auditor,medio
+abogado,procurador,medio
+juez,fiscal,medio
+juzgado,tribunal,medio
+comisaría,jefatura,medio
+taxista,remisero,medio
+fletero,camionero,medio
+bañero,guardavidas,medio
+kinesiólogo,fisioterapeuta,medio
+odontólogo,dentista,medio
+veterinario,zootecnista,medio
+plomero,gasista,medio
+electricista,técnico eléctrico,medio
+canillita,voceador,medio
+verdulero,frutero,medio
+baldosa,cerámica,medio
+quebracho,algarrobo,medio
+ceibo,jacarandá,medio
+lapacho,tipa,medio
+espinillo,cina-cina,medio
+palo borracho,yuchán,medio
+mate cocido,té de yuyos,medio
+yerba mate,yerba compuesta,medio
+bombilla,pitillo,medio
+leña,carbón,medio
+locro norteño,locro sureño,medio
+empanada tucumana,empanada salteña,medio
+alfajor cordobés,alfajor marplatense,medio
+dulce de zapallo,dulce de tomate,medio
+arroz con leche,leche asada,medio
+pan casero,pan de campo,medio
+tortilla de campo,tortilla española,medio
+chipa,chipa guazú,medio
+mbejú,reviro,medio
+rancho,toldo,medio
+fortín,reducción jesuítica,medio
+pulpero,almacenero de campo,medio
+compadrito,malevo,medio
+arrabalero,orillero,medio
+conventillo,inquilinato,medio
+zaguán,vestíbulo,medio
+baulera,depósito,medio
+palier,hall de entrada,medio
+mate amargo,mate con azúcar,medio
+asado de tira,costillar,medio
+rioplatense,porteño,dificil
+bonaerense,pampeano,dificil
+cuyanidad,andinidad,dificil
+altiplano,puna,dificil
+yungas,selva de montaña,dificil
+chaco húmedo,chaco seco,dificil
+iberá,pantanal,dificil
+lunfardo,cocoliche,dificil
+vesre,jerigonza porteña,dificil
+canyengue,orillero,dificil
+compadrito,guapo de barrio,dificil
+Plan Austral,Plan Primavera,dificil
+Convertibilidad,Plan Brady,dificil
+corralito,corralón bancario,dificil
+pesificación,dolarización forzosa,dificil
+megacanje,blindaje financiero,dificil
+INDEC,EPH,dificil
+cuenta corriente,balanza comercial,dificil
+Banco Nación,Banco Provincia,dificil
+BCRA,ANSES,dificil
+PAMI,INSSJP,dificil
+AUH,asignación familiar extendida,dificil
+SMVM,canasta básica alimentaria,dificil
+canasta básica total,línea de pobreza,dificil
+NBI,pobreza estructural,dificil
+Villa 31,villa de emergencia,dificil
+Gran Buenos Aires,AMBA,dificil
+CABA,Capital Federal,dificil
+Palermo Soho,Palermo Hollywood,dificil
+Puerto Madero,dique 4,dificil
+Riachuelo,cuenca Matanza-Riachuelo,dificil
+delta del Paraná,Tigre delta,dificil
+Nahuel Huapi,lago Moreno,dificil
+Mar Chiquita,laguna Ansenuza,dificil
+Epecuén,lago Epecuén,dificil
+INVAP,CNEA,dificil
+CONAE,agencia espacial,dificil
+ARSAT,satélite geoestacionario,dificil
+INTI,INTA,dificil
+SENASA,ANMAT,dificil
+CONICET,FONTAR,dificil
+UBA,UTN,dificil
+FLACSO,UNSAM,dificil
+UNTREF,UNLA,dificil
+Belgrano,Ferro Carril Oeste,dificil
+Huracán,San Lorenzo,dificil
+Vélez Sársfield,Quilmes Atlético,dificil
+Independiente,Racing Club,dificil
+Lanús,Banfield,dificil
+Estudiantes de La Plata,Gimnasia y Esgrima,dificil
+Talleres de Córdoba,Belgrano de Córdoba,dificil
+Newell's Old Boys,Club Atlético Colón,dificil
+Patoruzú,Mafalda,dificil
+Inodoro Pereyra,Cachafaz,dificil
+Clemente,Mendieta,dificil
+Luca Prodan,Pappo Napolitano,dificil
+Charly García,Luis Alberto Spinetta,dificil
+Fito Páez,Gustavo Cerati,dificil
+Soda Stereo,Los Redonditos de Ricota,dificil
+voseo,tuteo rioplatense,dificil
+chabón,coso,dificil
+posta,en serio,dificil
+copado,piola,dificil
+flashero,chamuyero,dificil
+groso,fenómeno,dificil
+quilombo,bardo,dificil
+garrón,plomo,dificil
+chamuyar,engrupir,dificil
+peronismo,movimiento nacional,dificil
+kirchnerismo,cristinismo,dificil
+radicalismo,desarrollismo,dificil
+montoneros,tendencia revolucionaria,dificil
+dictadura cívico-militar,proceso de reorganización nacional,dificil
+desaparecidos,detenidos-desaparecidos,dificil
+Martín Fierro,Santos Vega,dificil
+Don Segundo Sombra,Facundo,dificil
+Borges,Cortázar,dificil
+Arlt,Marechal,dificil
+Bioy Casares,Silvina Ocampo,dificil
+Almafuerte,Leopoldo Lugones,dificil
+Güiraldes,Mansilla,dificil
+Gauchito Gil,San La Muerte,dificil
+Ceferino Namuncurá,Mama Antula,dificil
+quebracho colorado,quebracho blanco santiagueño,dificil
+caldén,algarrobo blanco,dificil
+arrayán,maqui,dificil
+seibo,irupé,dificil
+molle,aguaribay,dificil
+mistol,chañar,dificil
+peregrinaje a Luján,procesión religiosa nacional,dificil
+Plan Cavallo,ajuste fiscal,dificil
+IOMA,OSDE,dificil
+microcentro porteño,CBD rioplatense,dificil
+Villa Lugano,Villa Riachuelo,dificil
+Ciudadela,Laferrere,dificil
+La Matanza,conurbano sur,dificil
+Reconquista,Luján,dificil
+Iguazú,cataratas del Iguazú,dificil
+villas miseria,asentamientos,dificil
+peronismo clásico,peronismo renovador,dificil
